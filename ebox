@@ -1,0 +1,53 @@
+#EXTM3U
+#EXTINF:-0,Atn Music
+http://103.49.168.172:8081/ebox/bd_atn_music/chunks.m3u8
+#EXTINF:-0,Atn Bangla
+http://103.49.168.172:8081/ebox/bd_atn_bangla/chunks.m3u8
+#EXTINF:-0,Channel 24
+http://103.49.168.172:8081/ebox/bd_channel24/chunks.m3u8
+#EXTINF:-0,Boishakhi TV
+http://103.49.168.172:8081/ebox/bd_boishakhi/chunks.m3u8
+#EXTINF:-0,Banglavision
+http://103.49.168.172:8081/ebox/bd_banglavision/chunks.m3u8
+#EXTINF:-0,Channel i
+http://103.49.168.172:8081/ebox/bd_channel_i/chunks.m3u8
+#EXTINF:-0,DBC NEWS
+http://103.49.168.172:8081/ebox/bd_dbc_news/chunks.m3u8
+#EXTINF:-0,Channel 9
+http://103.49.168.172:8081/ebox/bd_channel_9/chunks.m3u8
+#EXTINF:-0,Deepto
+http://103.49.168.172:8081/ebox/bd_deepto/chunks.m3u8
+#EXTINF:-0,Shomoy
+http://103.49.168.172:8081/ebox/bd_somoy/chunks.m3u8
+#EXTINF:-0,Independent TV
+http://103.49.168.172:8081/ebox/bd_independent_tv/chunks.m3u8
+#EXTINF:-0,Jamuna TV
+http://103.49.168.172:8081/ebox/bd_jamuna/chunks.m3u8
+#EXTINF:-0,Mohona Tv
+http://103.49.168.172:8081/ebox/bd_mohona_tv/chunks.m3u8
+#EXTINF:-0,News 24
+http://103.49.168.172:8081/ebox/bd_news24/chunks.m3u8
+#EXTINF:-0,NTV
+http://103.49.168.172:8081/ebox/bd_ntv/chunks.m3u8
+#EXTINF:-0,RTV
+http://103.49.168.172:8081/ebox/bd_rtv/chunks.m3u8
+#EXTINF:-0,Anindo tv
+http://103.49.168.172:8081/ebox/bd_anando_tv/chunks.m3u8
+#EXTINF:-0,Star Jalsha
+http://103.49.168.172:8081/ebox/in_starjalsha_hd/chunks.m3u8
+#EXTINF:-0,Colors Bangla
+http://103.49.168.172:8081/ebox/in_colorsbangla/chunks.m3u8
+#EXTINF:-0,Aljajeera
+http://103.49.168.172:8081/ebox/aljazeera_news/chunks.m3u8
+#EXTINF:-0,BBc News
+http://103.49.168.172:8081/ebox/bbc_news/chunks.m3u8
+#EXTINF:-0,Ten 2
+http://103.49.168.172:8081/ebox/ten2/chunks.m3u8
+#EXTINF:-0,Sony Tv
+http://103.49.168.172:8081/ebox/in_sonytv_hd/chunks.m3u8
+#EXTINF:-0,Ten 3
+http://103.49.168.172:8081/ebox/ten3/chunks.m3u8
+#EXTINF:-0,Sat Max
+http://103.49.168.172:8081/ebox/in_sat_max/chunks.m3u8
+#EXTINF:-0,SOny Sab
+http://103.49.168.172:8081/ebox/in_sony_sab/chunks.m3u8
